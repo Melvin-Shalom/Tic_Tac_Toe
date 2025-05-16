@@ -1,30 +1,53 @@
-<h1>Resume Portfolio #1</h1>
+<h1>Tic Tac Toe</h1>
 
 <h2>Description</h2>
-<p>
-  A sleek, web-based portfolio designed to showcase your best work online. This site helps you make a memorable impression on employers, collaborators, and anyone checking out your skills — way beyond the typical PDF resume.  
-  Check it out live here: <a href="https://melvin-shalom.github.io/Resume_Portfolio_01/" target="_blank" rel="noopener noreferrer">https://melvin-shalom.github.io/Resume_Portfolio_01/</a>
-</p>
+<p>A web-based Tic Tac Toe game built using HTML, CSS, and JavaScript. It features Dark Mode, a reset button, and the ability to start a new game.</p>
 
 <h2>Features</h2>
 <ul>
-  <li>Seamless Light and Dark mode toggle for a personalized browsing experience.</li>
-  <li>Projects section highlighting your work with descriptions, tech stacks, and direct repo links.</li>
+  <li>Simple and intuitive interface</li>
+  <li>Light and Dark mode toggle</li>
+  <li>Real-time turn tracking</li>
+  <li>Reset game without refreshing the page</li>
+  <li>Start a new game instantly</li>
 </ul>
 
+<h2>Requirements</h2>
+<ul>
+  <li>Modern Web Browser (Chrome, Firefox, Edge, etc.)</li>
+  <li>Internet Connection (for GitHub-hosted version)</li>
+</ul>
+
+<h2>Steps to Run</h2>
+<ol>
+  <li>
+    <h4>Online Access</h4>
+    <p>Play the game live via GitHub Pages:</p>
+    <code><a href="https://melvin-shalom.github.io/Tic_Tac_Toe/" target="_blank" rel="noopener noreferrer">https://melvin-shalom.github.io/Tic_Tac_Toe/</a></code>
+  </li>
+  <li>
+    <h4>Local Setup (Optional)</h4>
+    <p>Clone the repository:</p>
+    <code>git clone https://github.com/Melvin-Shalom/Tic_Tac_Toe.git</code><br>
+    <p>Then open <code>index.html</code> in any web browser.</p>
+  </li>
+</ol>
+
 <h2>Usage</h2>
-<p>Just open the link above and explore! Customize your own portfolio by editing the source files in the repository if you want your personal touch.</p>
+<p>
+Launch the game in your browser and enjoy a classic round of Tic Tac Toe with a clean UI and smooth Dark Mode.  
+Players take turns clicking on the grid to place their marks. Use the <strong>Reset</strong> button to clear the board or start a <strong>New Game</strong> anytime.
+</p>
 
 <h2>Future Scope</h2>
 <ul>
-  <li>Add contact form with email integration</li>
-  <li>Include animation and interactive UI elements</li>
-  <li>Make it fully responsive and optimized for all devices</li>
-  <li>Integrate blog or writing section for sharing thoughts</li>
+  <li>Add AI for single-player mode</li>
+  <li>Implement score tracking</li>
+  <li>Enhance UI with animations</li>
 </ul>
 
 <h2>Author</h2>
-<p>Built with ❤️ and ☕ by <a href="https://github.com/Melvin-Shalom">Melvin Shalom</a></p>
+<p>Developed with 🧠 and 🎮 by <a href="https://github.com/Melvin-Shalom" target="_blank">Melvin Shalom</a></p>
 
 <h2>License</h2>
-<p>Licensed under the <a href="https://opensource.org/licenses/MIT">MIT License</a></p>
+<p>This project is licensed under the <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a>.</p>
